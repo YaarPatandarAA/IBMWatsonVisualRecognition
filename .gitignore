@@ -1,0 +1,4 @@
+*.framework
+Cartfile.resolved
+/Carthage
+IBMWatsonAPIKey.swift
